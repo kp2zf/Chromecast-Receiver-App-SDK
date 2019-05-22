@@ -1,0 +1,9 @@
+body {
+    --playback-logo-image: url('https://www.broadcastingcable.com/.image/t_share/MTU4Nzc0ODkxMjQ2NTI4MTYx/fox-news-channel-logo.jpg');
+  }
+  cast-media-player {
+    --theme-hue: 100;
+    --progress-color: rgb(0, 255, 0);
+    --splash-image: url('https://www.broadcastingcable.com/.image/t_share/MTU4Nzc0ODkxMjQ2NTI4MTYx/fox-news-channel-logo.jpg');
+    --splash-size: cover;
+  }
